@@ -9,7 +9,8 @@ Regional and Product-wise Performance
 Customer Segmentation
 
 Top-performing Categories/Subcategories
- Key Features:
+
+## Key Features:
 
 Dynamic filtering and slicers for detailed analysis
 
